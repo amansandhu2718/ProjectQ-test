@@ -1,0 +1,10 @@
+{
+  "gameId": "flappy-bird",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "runtime": "homerun-games-1",
+  "platform": "web",
+  "bundle": "1.0.0/web/game.bba5dca0e5470e861f35e26e1eed4cc4eed01c7a00fa09c89d16016aa53e57b9.bundle",
+  "sha256": "bba5dca0e5470e861f35e26e1eed4cc4eed01c7a00fa09c89d16016aa53e57b9",
+  "size": 69078
+}
